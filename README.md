@@ -2,7 +2,7 @@
 
 Trabajo practico realizado en Bootcamp
 
-Filla cual consta de la siguiente clasificación:
+Filtrar cual consta de la siguiente clasificación:
 
 Perros de detección
 - Deben ser entrenados para detección de personas y explosivos
